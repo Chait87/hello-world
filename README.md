@@ -1,4 +1,5 @@
 # hello-world
 My first repositoty for testing purpose
 
-Hello again world
+
+I have successfully deleted on case
