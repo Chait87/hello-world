@@ -4,4 +4,7 @@ My first repositoty for testing purpose
 
 Testing it for the second time
 
-I want to practice on deleting the cases
+
+I have successfully deleted a case
+
+Testing the case deletion again
