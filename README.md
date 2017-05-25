@@ -7,4 +7,5 @@ Trying to get hands on
 Had Tacos today in the lunch
 
 I would need to practice more on this 
-prabhaker
+prabhaer
+I'm currently practicing on GIT Bash
